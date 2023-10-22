@@ -1410,3 +1410,119 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.22-18.55.44:942][909]LogPlayLevel: Display: Destroying online subsystem :Context_4
 [2023.10.22-19.01.36:098][ 54]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
 [2023.10.22-19.01.36:098][ 54]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.10.22-19.04.16:879][566]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.10.22-19.04.16:879][566]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.10.22-19.04.24:290][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:290][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Bridge/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Bridge/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:290][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:290][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:290][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:290][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:290][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:290][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:290][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:290][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:290][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/UVEditor/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Experimental/UVEditor/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Editor/GLTFImporter/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Editor/GLTFImporter/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:291][977]SourceControl: fatal: C:/Program Files (x86)/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files (x86)/UE_5.1/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'E:/GameProjects'
+[2023.10.22-19.04.24:429][977]EditorErrors: Warning: No assets to check in!
+[2023.10.22-19.09.49:353][ 24]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.10.22-19.09.49:353][ 24]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.10.22-19.10.06:541][173]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.22-19.10.06:545][173]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.10.22-19.10.06:546][173]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.22-19.10.06:546][173]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.22-19.10.06:546][173]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 1 ms)
+[2023.10.22-19.10.06:547][173]LogWorldPartition: Display: GenerateStreaming took 204 us (total: 4 ms)
+[2023.10.22-19.10.06:547][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.22-19.10.06:547][173]PIE: New page: PIE session: ThirdPersonMap (23 окт. 2023 г., 01:10:06)
+[2023.10.22-19.10.06:547][173]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.22-19.10.06:551][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003986s)
+[2023.10.22-19.10.06:551][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004016s)
+[2023.10.22-19.10.06:551][173]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-19.10.06:551][173]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.10.22-19.10.06:552][173]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.22-19.10.06:552][173]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.22-19.10.06:552][173]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.22-19.10.06:553][173]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.10.22-19.10.06:553][173]LogWorldPartition: Display: WorldPartition initialize took 906 us (total: 1.44 sec)
+[2023.10.22-19.10.06:553][173]LogPlayLevel: PIE: World Init took: (0.001890s)
+[2023.10.22-19.10.06:559][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.10.22-19.10.06:560][173]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.10.22-19.10.06:560][173]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.22-19.10.06:560][173]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.22-19.10.06:560][173]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.22-19.10.06:560][173]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.22-19.10.06:560][173]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.22-19.10.06:560][173]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.22-19.10.06:560][173]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.22-19.10.06:560][173]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.22-19.10.06:561][173]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.22-19.10.06:561][173]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.22-19.10.06:561][173]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.22-19.10.06:563][173]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.22-19.10.06:584][173]LogAudioMixer: Display: Using Audio Hardware Device Динамики (USB Audio Device)
+[2023.10.22-19.10.06:584][173]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.22-19.10.06:584][173]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.22-19.10.06:584][173]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.22-19.10.06:585][173]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.10.22-19.10.06:585][173]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.10.22-19.10.06:587][173]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.10.22-19.10.06:587][173]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.10.22-19.10.06:587][173]LogInit: FAudioDevice initialized.
+[2023.10.22-19.10.06:587][173]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2023.10.22-19.10.06:590][173]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.22-19.10.06:591][173]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.10.22-22.10.06
+[2023.10.22-19.10.06:592][173]LogWorld: Bringing up level for play took: 0.001868
+[2023.10.22-19.10.06:594][173]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.10.22-19.10.06:601][173]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.10.22-19.10.06:601][173]PIE: Server logged in
+[2023.10.22-19.10.06:602][173]PIE: Play in editor total start time 0,057 seconds.
+[2023.10.22-19.10.07:481][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-19.10.07:481][219]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.22-19.10.07:481][219]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-19.10.07:481][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-19.10.07:481][219]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.10.22-19.10.07:485][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.22-19.10.07:487][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-19.10.07:493][219]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.22-19.10.07:494][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.22-19.10.07:495][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.22-19.10.07:501][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-19.10.07:503][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.22-19.10.07:553][222]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.10.22-19.10.12:929][540]LogViewport: Scene viewport resized to 1292x645, mode Windowed.
+[2023.10.22-19.10.12:965][542]LogViewport: Scene viewport resized to 1292x636, mode Windowed.
+[2023.10.22-19.10.12:997][544]LogViewport: Scene viewport resized to 1292x618, mode Windowed.
+[2023.10.22-19.10.13:052][546]LogViewport: Scene viewport resized to 1292x584, mode Windowed.
+[2023.10.22-19.10.13:086][548]LogViewport: Scene viewport resized to 1292x574, mode Windowed.
+[2023.10.22-19.10.13:118][550]LogViewport: Scene viewport resized to 1292x570, mode Windowed.
